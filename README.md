@@ -1,11 +1,5 @@
 # wpw-syndrome-detection
-This project aims to develop a deep learning-based approach for accurately detecting Wolff-Parkinson-White (WPW) syndrome from ECG images. WPW syndrome is a cardiac condition caused by an abnormal extra electrical pathway in the heart, which can lead to episodes of rapid heart rate (tachycardia).
-Project Overview
-🔹 Objective: Build an AI-powered model for automated WPW detection using ECG images.
-Approach:
-Preprocess ECG images to enhance model interpretability.
-Train a deep learning model on a labeled dataset.
-Evaluate performance using key classification metrics.
-🔹 Impact: This model aims to assist healthcare professionals in the early detection and diagnosis of WPW syndrome, enabling timely medical intervention and improved patient outcomes.
-Dataset
+This project focuses on developing a deep learning model to accurately detect Wolff-Parkinson-White (WPW) syndrome from ECG images. WPW syndrome is a heart condition caused by an abnormal extra electrical pathway, which can lead to episodes of rapid heart rate (tachycardia). The goal of this project is to create an AI-driven diagnostic tool that can assist healthcare professionals in the early detection and diagnosis of WPW syndrome, enabling timely medical intervention.
+
+The project involves preprocessing ECG images to improve model interpretability, training a deep learning model on a labeled dataset, and evaluating its performance using standard classification metrics. By leveraging deep learning techniques, this approach aims to provide a reliable, efficient, and automated method for identifying WPW syndrome.
 The dataset used for training and evaluation was sourced from Kaggle: https://www.kaggle.com/code/bjoernjostein/wpw-detection-from-ecg-using-1d-cnn/notebook#Wolff-Parkinson-White-prediction-using-1D-Convolutional-Neural-Networks
